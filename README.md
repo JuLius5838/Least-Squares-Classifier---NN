@@ -1,1 +1,1 @@
-# Least-Squares-Classifier---NN
+# Least-Squares-Classifier-NN
